@@ -1,5 +1,7 @@
 ## Tumblr Unfollow Script
 
+https://github.com/user-attachments/assets/9dd5f897-1548-4005-a314-7fb19ad2efa7
+
 This script automates the process of unfollowing users on Tumblr. It allows you to log into your Tumblr account and systematically unfollow a specified number of users, making it easier to manage your following list.
 
 ## Features
