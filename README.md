@@ -19,15 +19,20 @@ This script automates the process of unfollowing users on Tumblr. It allows you 
 
 1. Clone this repository:
 
-```git clone https://github.com/adr1an-debug/tumblr-unfollow-script.git```
+```
+git clone https://github.com/adr1an-debug/tumblr-unfollow-script.git
+```
 
 2. Navigate to the project directory:
 
-```cd tumblr-unfollow-script```
-
+```
+cd tumblr-unfollow-script
+```
 3. Install the required packages:
 
-```pip install nodriver```
+```
+pip install nodriver
+```
 
 ## Usage
 
